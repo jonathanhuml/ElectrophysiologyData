@@ -423,6 +423,13 @@ The following are datasets collected with research EEG systems:
 - Multimodal dataset of MRI and EEG data (n=20):
 [Data](https://doi.org/10.17632/crhybxpdy6.2) -
 [Paper](https://doi.org/10.1016/j.dib.2023.109661)
+- EEG data on aesthetic & creative judgments of poetry (n=51):
+[Data1](https://doi.org/10.18112/openneuro.ds006648.v1.0.0) -
+[Data2](https://doi.org/10.18112/openneuro.ds006647.v1.0.1) -
+[Paper](https://doi.org/10.1038/s41597-025-06189-w)
+- FOODEEG: dataset of EEG responses to food images (n=117):
+[Data](https://doi.org/10.18112/openneuro.ds006832.v1.0.0) -
+[Paper](https://doi.org/10.1101/2025.11.07.687287)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
