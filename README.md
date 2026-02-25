@@ -113,7 +113,7 @@ Available datasets include:
 - EEG Motor Movement / Imagery (n=109):
 [Data](https://www.physionet.org/pn4/eegmmidb/)
 
-### PREDICT - Patient Repository for EEG Data + Computational Tools
+### PREDICT - Patient Repository for EEG Data + Computational Tools nothing at scale, just small stuff 🔴
 
 PREDICT is a repository for EEG data, focused on patient data (collected in research settings).
 
@@ -121,7 +121,7 @@ PREDICT is a repository for EEG data, focused on patient data (collected in rese
 [Data Portal](http://predict.cs.unm.edu/downloads.php) -
 [Paper](https://doi.org/10.3389/fninf.2017.00067)
 
-### TUH - Temple University Hospital Corpus
+### TUH - Temple University Hospital Corpus - already trained on 🟡
 
 A large collection of EEG recorded in clinical settings (hospital data).
 
