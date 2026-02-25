@@ -85,7 +85,7 @@ Openly available electroencephalography (EEG) datasets and large-scale projects 
 
 The [ChildMind Institute](https://childmind.org) is a non-profit that, amongst other things, is involved in large-scale research projects that release large datasets.
 
-#### HBN - Healthy Brain Networks
+#### HBN - Healthy Brain Networks - OBTAINED (~2TB) <span style="color:red;">This text is red</span>
 
 A large project including rest and task EEG data across a large adult cohort (n=~1000).
 
