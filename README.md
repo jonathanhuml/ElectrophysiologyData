@@ -93,7 +93,7 @@ A large project including rest and task EEG data across a large adult cohort (n=
 [Data Portal](https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html#direct-downloads) -
 [Paper](https://dx.doi.org/10.1038/sdata.2017.181)
 
-#### MIPDB - Multimodal Resource for Studying Information Processing in the Developing Brain NICE (~2TB) 🟢
+#### MIPDB - Multimodal Resource for Studying Information Processing in the Developing Brain NICE (~320GB) 🟢
 
 A project including rest and task EEG data across a young cohort, ages 6-44 (n=126).
 
