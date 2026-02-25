@@ -85,7 +85,7 @@ Openly available electroencephalography (EEG) datasets and large-scale projects 
 
 The [ChildMind Institute](https://childmind.org) is a non-profit that, amongst other things, is involved in large-scale research projects that release large datasets.
 
-#### HBN - Healthy Brain Networks - OBTAINED (~2TB) <span style="color:red;">This text is red</span>
+#### HBN - Healthy Brain Networks - OBTAINED (~2TB) 🟢
 
 A large project including rest and task EEG data across a large adult cohort (n=~1000).
 
@@ -101,7 +101,7 @@ A project including rest and task EEG data across a young cohort, ages 6-44 (n=1
 [Data Portal](https://fcon_1000.projects.nitrc.org/indi/cmi_eeg/eeg.html) -
 [Paper](https://doi.org/10.1038/sdata.2017.40)
 
-### Physionet
+### Physionet - we've mostly explored this, nothing much left to exploit 🔴
 
 Physionet is an archive of physiology data, and includes some EEG data under the 'neuroelectric' tag.
 
